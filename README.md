@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Dvelopment/App / web develpment..
 - 🌱 I’m currently learning React and back-end development...
 - 💞️ I’m looking to collaborate on .Web Development projects..
-- 📫 How to reach me ..mail me - nawaztausif63@gmail.com.
+- 📫 How to reach me e-mail- nawaztausif63@gmail.com.
 
 <!---
 NawazT/NawazT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

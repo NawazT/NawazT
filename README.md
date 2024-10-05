@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NawazT
-- 👀 I’m interested in Software Dvelopment/App / web develpment..
-- 🌱 I’m currently learning React and back-end development...
-- 💞️ I’m looking to collaborate on .Web Development projects..
+- 👀 I’m interested in learning new things in the field of software development and data science ..
+- 🌱 I’m currently working as a data engineer...
+- 💞️ I’m looking to collaborate on full stack development projects and fine tuning of LLMs ..
 - 📫 e-mail- nawaztausif63@gmail.com.
 
 <!---
